@@ -46,5 +46,11 @@ int main()
     cout<<p * q<<endl;
     cout<<p / q<<endl;
 
+    //Modulus Operator
+    //a % b = a if a<b
+    //a % a = o
+    //a % (-b) = a % b
+    //(-a) % b = -(a % b)
+    //a % b = 0 it means a is divisible by a
     return 0;
 }
