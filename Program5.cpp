@@ -6,7 +6,7 @@ int main()
     int x = 4;
     cout<<x<<endl;
     x++; //Post Increment
-    cout<<x<<endl;
+    cout<<x<<endl; 
     //x = x + 1
     //x += 1
     //x++
