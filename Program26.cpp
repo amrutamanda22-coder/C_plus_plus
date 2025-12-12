@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    //if-else ladder
     int marks;
 
     cout<<"Enter Students marks(out 0f 100):";
