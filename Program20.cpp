@@ -4,10 +4,11 @@ int main()
 {
     int n;
 
+    //logical OR Operator
     cout<<"Enter a number:";
     cin>>n;
 
-    if(n%5==0 && n%3==0) //(n%15==0)
+    if(n%5==0 || n%3==0) //(n%15==0)
     cout<<n<<" Is divisible by 3 and 5";
 
     else
