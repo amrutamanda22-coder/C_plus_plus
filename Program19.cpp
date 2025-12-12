@@ -4,7 +4,7 @@ int main()
 {
     int n;
 
-    //using logical operator
+    //using logical AND operator
 
     cout<<"Enter a number:";
     cin>>n;
